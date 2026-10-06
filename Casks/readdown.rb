@@ -2,8 +2,7 @@ cask "readdown" do
   version "1.18.1"
   sha256 "553622d8649e669a81693ec4068d9bc12bd99d6691d8d42facdc400b7bb5a017"
 
-  url "https://github.com/nataliarsand/readdown/releases/download/v#{version}/Readdown.dmg",
-      verified: "github.com/nataliarsand/readdown/"
+  url "https://github.com/nataliarsand/readdown/releases/download/v#{version}/Readdown.dmg"
   name "Readdown"
   desc "Markdown reader and Quick Look preview"
   homepage "https://readdown.app/"
