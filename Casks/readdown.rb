@@ -1,6 +1,6 @@
 cask "readdown" do
-  version "1.18.2"
-  sha256 "a5a50c024ac761e9a52a8342f4950460d911b81d37cdff453a1491d992e90768"
+  version "1.19"
+  sha256 "4255cfffd2f41488fbbddd7128e13379a7718a6fd08a4fdc9ebb98c7df63bdc6"
 
   url "https://github.com/nataliarsand/readdown/releases/download/v#{version}/Readdown.dmg"
   name "Readdown"
